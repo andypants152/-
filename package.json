@@ -1,0 +1,19 @@
+{
+  "name": "golf",
+  "version": "1.0.0",
+  "description": "Golf Card Game Server",
+  "main": "golf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andypants152/-.git"
+  },
+  "author": "AndyPants",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/andypants152/-/issues"
+  },
+  "homepage": "https://github.com/andypants152/-#readme"
+}
